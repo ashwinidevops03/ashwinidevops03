@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/ashwinidevops03/ashwinidevops03/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Ashwini Basavaraj
@@ -7,7 +7,7 @@
 ### Devops engineer @ GSK (via Inventzo Systems India Pvt Ltd)  
 🚀 AWS & Azure | CI/CD | Kubernetes | Terraform 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
+[![LinkedIn](www.linkedin.com/in/ashwini-basavaraj)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
 [![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
 
