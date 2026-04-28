@@ -6,7 +6,7 @@
 
 [![LinkedIn](www.linkedin.com/in/ashwini-basavaraj)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-ashwinidevops.03@gmail.com-red?logo=gmail&style=flat)](mailto:ashwinidevops.03@gmail.com)
 
 ---
 
