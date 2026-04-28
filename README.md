@@ -46,9 +46,9 @@ I'm a passionate **DevOps Engineer with over **6 years of experience** in buildi
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Haripalepu&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ashwinidevops03&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=ashwinidevops03&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwinidevops03&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
