@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/ashwinidevops03/ashwinidevops03/blob/main/banner.png" alt="GitHub Banner" width="800"/>
-</div>
 
 # 👋 Hi, I'm Ashwini Basavaraj
 
