@@ -55,7 +55,7 @@ I'm a passionate **DevOps Engineer with over **6 years of experience** in buildi
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/ashwinidevops03/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ashwinidevops03/snake.git" alt="snake animation" />
 </div>
 
 ---
